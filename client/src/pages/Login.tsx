@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { AiOutlineEye, AiOutlineEyeInvisible } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import Form, { FormField, FormActions } from '@/components/ui/Form';
 import Input from '@/components/ui/Input';
 import useAuth from '@/hooks/useAuth';

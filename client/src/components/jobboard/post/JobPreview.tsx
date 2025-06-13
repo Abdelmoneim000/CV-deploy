@@ -11,7 +11,7 @@ import {
   AiOutlineCalendar,
   AiOutlineUser,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 
 interface JobPreviewProps {
   jobData: JobFormData;

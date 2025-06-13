@@ -14,7 +14,7 @@ import {
   AiOutlineCopy,
   AiOutlineShareAlt,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import JobStatusBadge from './JobStatusBadge';
 import { Job } from '@/types/JobBoard';
 

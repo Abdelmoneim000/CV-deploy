@@ -8,7 +8,7 @@ import {
   AiOutlineRocket,
   AiOutlineArrowLeft,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 
 export interface JobFormData {
   // Basic Information

@@ -7,7 +7,7 @@ import {
   AiOutlineRobot,
 } from 'react-icons/ai';
 import { toast } from 'react-toastify';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import Container from '@/components/ui/Container';
 import useAuth from '@/hooks/useAuth';
 import ApplicationCard from './ApplicationCard';

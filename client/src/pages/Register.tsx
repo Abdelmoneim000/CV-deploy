@@ -6,7 +6,7 @@ import {
   AiOutlineUser,
   AiOutlineMail,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import Form, { FormField, FormActions } from '@/components/ui/Form';
 import Input from '@/components/ui/Input';
 import useAuth from '@/hooks/useAuth';

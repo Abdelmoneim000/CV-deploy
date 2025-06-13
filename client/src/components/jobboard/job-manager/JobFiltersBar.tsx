@@ -4,7 +4,7 @@ import {
   AiOutlineFilter,
   AiOutlineClose,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import { JobFilters } from '@/types/JobBoard';
 
 interface JobFiltersBarProps {

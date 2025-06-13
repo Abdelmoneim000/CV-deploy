@@ -12,7 +12,7 @@ import {
   AiOutlineFlag,
 } from 'react-icons/ai';
 import { Link } from 'react-router-dom';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import JobStatusBadge from './JobStatusBadge';
 import { Job } from '@/types/JobBoard';
 

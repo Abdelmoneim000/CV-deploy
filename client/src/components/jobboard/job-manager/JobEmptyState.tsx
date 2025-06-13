@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { AiOutlineFileText } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import { JobFilters } from '@/types/JobBoard';
 
 interface JobEmptyStateProps {

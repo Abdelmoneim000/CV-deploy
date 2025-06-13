@@ -8,7 +8,7 @@ import {
   AiOutlineHome,
   AiOutlineTeam,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import Input from '@/components/ui/Input';
 
 interface JobPostingFormProps {

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Button from '../../ui/Button';
+import Button from '../../ui/button';
 import { useCvContext } from '../../../context/CvContext';
 import { omitKeys } from '../../../lib/utilities';
 import { FiCheck, FiAlertTriangle, FiLoader } from 'react-icons/fi';

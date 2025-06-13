@@ -15,7 +15,7 @@ import {
   Languages,
   Calendar as CalendarIcon,
 } from 'lucide-react';
-import Button from '../ui/Button';
+import Button from '../ui/button';
 import useAuth from '@/hooks/useAuth';
 import { useState, useEffect } from 'react';
 import Input from '../ui/Input';

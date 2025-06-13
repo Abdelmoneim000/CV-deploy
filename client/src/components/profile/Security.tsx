@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Button from '../ui/Button';
+import Button from '../ui/button';
 import Input from '../ui/Input';
 import useAuth from '@/hooks/useAuth';
 import { Key } from 'lucide-react';

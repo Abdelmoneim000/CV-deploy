@@ -1,7 +1,7 @@
 import { useCvContext } from '../../../context/CvContext';
 import { useState } from 'react';
 import { FiEdit, FiTrash, FiPlus, FiSave } from 'react-icons/fi';
-import Button from '../../ui/Button';
+import Button from '../../ui/button';
 import Dialog from '../../ui/dialog';
 
 import {

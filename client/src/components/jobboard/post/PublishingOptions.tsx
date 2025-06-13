@@ -6,7 +6,7 @@ import {
   AiOutlineGlobal,
   AiOutlineArrowLeft,
 } from 'react-icons/ai';
-import Button from '@/components/ui/Button';
+import Button from '@/components/ui/button';
 import useAuth from '@/hooks/useAuth';
 import { toast } from 'react-toastify';
 

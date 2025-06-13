@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useCvContext } from '../../../context/CvContext';
 import { omitKeys } from '../../../lib/utilities';
-import Button from '../../ui/Button';
+import Button from '../../ui/button';
 import { FiCheckCircle, FiAlertTriangle, FiCheck, FiX } from 'react-icons/fi';
 import useAuth from '@/hooks/useAuth';
 
