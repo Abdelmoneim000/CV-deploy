@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="chevrons" patternUnits="userSpaceOnUse" width="100" height="100">
+      <path d="M0 0L50 25L100 0" fill="none" stroke="#D1D5DB" stroke-width="1"/>
+      <path d="M0 25L50 50L100 25" fill="none" stroke="#D1D5DB" stroke-width="1"/>
+      <path d="M0 50L50 75L100 50" fill="none" stroke="#D1D5DB" stroke-width="1"/>
+      <path d="M0 75L50 100L100 75" fill="none" stroke="#D1D5DB" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#chevrons)" />
+</svg>

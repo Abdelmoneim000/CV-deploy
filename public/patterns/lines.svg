@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="lines" patternUnits="userSpaceOnUse" width="100" height="100">
+      <line x1="0" y1="0" x2="100" y2="100" stroke="#D1D5DB" stroke-width="1"/>
+      <line x1="100" y1="0" x2="0" y2="100" stroke="#D1D5DB" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#lines)" />
+</svg>
