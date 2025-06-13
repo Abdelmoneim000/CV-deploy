@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
-import Button from '../../ui/Button';
+import Button from '../../ui/button';
 import { useCvContext } from '../../../context/CvContext';
 import { omitKeys } from '../../../lib/utilities';
 import useAuth from '@/hooks/useAuth';

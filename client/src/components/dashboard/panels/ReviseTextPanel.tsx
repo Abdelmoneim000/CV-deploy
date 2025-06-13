@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { useCvContext } from '../../../context/CvContext';
-import Button from '../../ui/Button';
+import Button from '../../ui/button';
 import useAuth from '@/hooks/useAuth';
 
 const ReviseTextPanel = () => {

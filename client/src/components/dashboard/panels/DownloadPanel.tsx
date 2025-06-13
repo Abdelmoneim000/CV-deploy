@@ -1,4 +1,4 @@
-import Button from '../../ui/Button';
+import Button from '../../ui/button';
 import { useState } from 'react';
 import { useCvContext } from '../../../context/CvContext';
 import html2canvas from 'html2canvas';
